@@ -1,7 +1,11 @@
 # Competitive Programming (CP)
-- Open-source collection of CP resources: https://github.com/lnishan/awesome-competitive-programming
 - Team USACO's hand-curated educational CP content: https://usaco.guide
 - CodeChef's List: https://www.codechef.com/resources-for-competitive-programming
+- CP Topics by Love Babbar: https://www.youtube.com/playlist?list=PL4PCksYQGLJOcaPLgeMFaxaHigPFjBuTG
+
+## Open-Source Resources & Guides
+- Skills of a software engineer: https://github.com/jwasham/coding-interview-university
+- Open-source collection of CP resources: https://github.com/lnishan/awesome-competitive-programming
 
 ## International Olympiad in Informatics (IOI)
 - Website: https://ioinformatics.org/
